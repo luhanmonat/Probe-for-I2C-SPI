@@ -7,7 +7,7 @@
 
 /*  Commands    (upper or lower case)
  *  ------------------------------------------  
- *  xxyy zz     any two hex digits (spaces optional)
+ *  xxyy zz     by default send hex bytes (spaces optional)
  *  .ddd        Read ddd (decimal) bytes as hex (end with space or end of line)
  *  /           Create START condition (select)
  *  ;           Create STOP (automatic at end of line)
