@@ -1,6 +1,6 @@
 # Probe-for-I2C-SPI
 
-Send and receive hex bytes to any SPI or I2C device using Arduino Nano.
+Send and receive hex bytes to any SPI or I2C device using Arduino Nano directly from terminal program in Arduino IDE. With this sketch (program), you can rapidly try out communications with the target device as compared to: Edit-Compile-Upload-Run-Repeat cycle.
 
 All commands can be in upper or lower case
 
