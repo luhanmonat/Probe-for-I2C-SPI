@@ -30,7 +30,7 @@ SPI>/06;/020050 11 22 33 44  enable write, then write 4 hex bytes to location 0x
 
 I2C>/a00140 12 34 56    write 3 bytes to location 0x140
 
-I2C>/a00000/a1.16       read 1st 16 bytes of EEPROM
+I2C>/a0000/a1.16       read 1st 16 bytes of EEPROM
 
 I2C>S                   scan all 256 addresses for valid addresses
 
